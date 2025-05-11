@@ -38,7 +38,7 @@
  
     Here's a concise version in your signature style:
 
-
+---
 
 #### 🏥 **Hospital Management System**  
 *Node.js + MongoDB backend for healthcare operations*
@@ -52,6 +52,7 @@
 
 🛠️ **Stack**: Express, MongoDB, JWT, Postman-tested  
 
+---
 
 #### 🏫 [Lecture Hall & Laboratory Management System](https://github.com/mutHu-19/lecture-hall-booking-system)
 > Role-based room booking & resource management system for universities.
