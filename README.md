@@ -18,18 +18,6 @@
 
 ### 📌 Featured Projects
 
-#### 🎬 [Movie Explore AI](https://github.com/mutHu-19/mutHu-19-Movie-EXplore)
-> AI-powered movie recommendation system with chat features.
-- MERN stack
-- Chat interface for movie discovery
-- Clean Moonflix-inspired UI
-
-#### 🏫 [Lecture Hall & Laboratory Management System](https://github.com/mutHu-19/lecture-hall-booking-system)
-> Role-based room booking & resource management system for universities.
-- MongoDB + Node.js backend
-- Role-based dashboards
-- Real-time timetable & availability logic
-
 #### 🎬 [Movie Explore](https://github.com/mutHu-19/mutHu-19-Movie-EXplore)
 
 > An AI-powered movie recommendation app built with the MERN stack. Users can explore movies by chatting with an intelligent assistant.
@@ -47,6 +35,31 @@
   - Clean and maintainable code using reusable components.
   - Fetches real-time movie data from a reliable external API.
   - View in-depth information for each movie, including rating, overview, and release date.
+ 
+    Here's a concise version in your signature style:
+
+
+
+#### 🏥 **Hospital Management System**  
+*Node.js + MongoDB backend for healthcare operations*
+
+> Secure API for patient appointments, staff communication & admin workflows  
+
+- JWT-auth protected routes  
+- Appointment booking/management  
+- Real-time messaging system  
+- Role-based user controls  
+
+🛠️ **Stack**: Express, MongoDB, JWT, Postman-tested  
+
+
+#### 🏫 [Lecture Hall & Laboratory Management System](https://github.com/mutHu-19/lecture-hall-booking-system)
+> Role-based room booking & resource management system for universities.
+- MongoDB + Node.js backend
+- Role-based dashboards
+- Real-time timetable & availability logic
+
+
 
 ---
 
