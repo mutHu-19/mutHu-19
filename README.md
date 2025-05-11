@@ -40,14 +40,13 @@
 * 🔧 **Backend**: [movie-backend](https://github.com/mutHu-19/mutHu-19-Movie-EXplore/tree/main/backend)
   Node.js and Express API integrated with MongoDB and AI logic for generating smart movie suggestions based on user queries.
 
-* 💡 **Features**:
 
-* 🔍 **Live Search**: Instantly filter and discover movies by title.
-* 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
-* 🎨 **Elegant UI**: Dark-themed interface with animated transitions and grid-based layout.
-* 🧩 **Component-Based Structure**: Clean and maintainable code using reusable components.
-* 🔗 **API Integration**: Fetches real-time movie data from a reliable external API.
-* 💬 **Details Page**: View in-depth information for each movie, including rating, overview, and release date.
+  - Instantly filter and discover movies by title.
+  - Optimized for mobile, tablet, and desktop screens.
+  - Dark-themed interface with animated transitions and grid-based layout.
+  - Clean and maintainable code using reusable components.
+  - Fetches real-time movie data from a reliable external API.
+  - View in-depth information for each movie, including rating, overview, and release date.
 
 ---
 
