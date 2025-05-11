@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Passionate about backend development with the MERN stack <br>
   💻 Building full-stack systems & APIs that solve real-world problems
+  🌱 I’m currently learning MERN stack and AI tools
 </p>
 
 ---
