@@ -59,6 +59,13 @@
 </p>
 
 ---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mutHu-19&label=Profile%20views&color=0e75b6&style=flat" alt="mutHu-19" />
+  <a href="https://github.com/mutHu-19?tab=followers">
+    <img src="https://img.shields.io/github/followers/mutHu-19?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
+  </a>
+</p>
+
 
 ### 🤝 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/arundathi-muthukumari-0060282b5)
