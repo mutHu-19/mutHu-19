@@ -35,18 +35,19 @@
 > An AI-powered movie recommendation app built with the MERN stack. Users can explore movies by chatting with an intelligent assistant.
 
 * 🔗 **Frontend**: [movie-frontend](https://github.com/mutHu-19/movie-frontend)
-  React-based UI inspired by Moonflix, featuring a sleek interface, search functionality, and responsive design.
+  Developed with React.js, offering a modern interface with movie search, interactive browsing, and mobile-friendly responsiveness.
 
 * 🔧 **Backend**: [movie-backend](https://github.com/mutHu-19/mutHu-19-Movie-EXplore/tree/main/backend)
   Node.js and Express API integrated with MongoDB and AI logic for generating smart movie suggestions based on user queries.
 
 * 💡 **Features**:
 
-  * AI chat interface for movie discovery
-  * Browse trending and popular movies
-  * View detailed movie info via TMDB API
-  * User-friendly interface with clean design
-
+* 🔍 **Live Search**: Instantly filter and discover movies by title.
+* 📱 **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
+* 🎨 **Elegant UI**: Dark-themed interface with animated transitions and grid-based layout.
+* 🧩 **Component-Based Structure**: Clean and maintainable code using reusable components.
+* 🔗 **API Integration**: Fetches real-time movie data from a reliable external API.
+* 💬 **Details Page**: View in-depth information for each movie, including rating, overview, and release date.
 
 ---
 
