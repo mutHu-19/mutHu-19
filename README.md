@@ -30,8 +30,6 @@
 - Role-based dashboards
 - Real-time timetable & availability logic
 
-  Sure! Here's a professionally worded and concise description of your **Movie Explore** project, based on the `movie-frontend` and `movie-backend` structure — ideal for adding to the 📌 **Featured Projects** section of your GitHub profile README:
-
 #### 🎬 [Movie Explore](https://github.com/mutHu-19/mutHu-19-Movie-EXplore)
 
 > An AI-powered movie recommendation app built with the MERN stack. Users can explore movies by chatting with an intelligent assistant.
