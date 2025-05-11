@@ -61,9 +61,9 @@
 ---
 
 ### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn](www.linkedin.com/in/arundathi-muthukumari-0060282b5)
 - 🌐 Portfolio (Coming soon...)
-- 📫 Email: your-email@example.com
+- 📫 Email: arundathi.muthukumari@gmail.com
 ```
 
 ---
