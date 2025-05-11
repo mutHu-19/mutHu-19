@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Muthu 👋</h1>
+<h1 align="center">Hi, I'm Arundathi Muthukumari 👋</h1>
 <p align="center">
   🚀 Passionate about backend development with the MERN stack <br>
   💻 Building full-stack systems & APIs that solve real-world problems
