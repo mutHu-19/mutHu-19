@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Arundathi Muthukumari 👋</h1>
 <p align="center">
   🚀 Passionate about backend development with the MERN stack <br>
-  💻 Building full-stack systems & APIs that solve real-world problems
+  💻 Building full-stack systems & APIs that solve real-world problems <br>
   🌱 I’m currently learning MERN stack and AI tools
 </p>
 
