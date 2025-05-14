@@ -34,9 +34,7 @@
   - Dark-themed interface with animated transitions and grid-based layout.
   - Clean and maintainable code using reusable components.
   - Fetches real-time movie data from a reliable external API.
-  - View in-depth information for each movie, including rating, overview, and release date.
- 
-    Here's a concise version in your signature style:
+  - View in-depth information for each movie, including rating, overview, and release date
 
 ---
 
