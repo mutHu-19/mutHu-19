@@ -20,7 +20,7 @@
 
 #### 🎬 [Movie Explore](https://github.com/mutHu-19/mutHu-19-Movie-EXplore)
 
-> An AI-powered movie recommendation app built with the MERN stack. Users can explore movies by chatting with an intelligent assistant.
+> An AI-powered movie exploration  app built with the MERN stack. Users can explore movies by searching .
 
 * 🔗 **Frontend**: [movie-frontend](https://github.com/mutHu-19/movie-frontend)
   Developed with React.js, offering a modern interface with movie search, interactive browsing, and mobile-friendly responsiveness.
