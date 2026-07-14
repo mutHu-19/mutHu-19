@@ -55,6 +55,8 @@
 | 📦 Smart Stock | Auto stock deduction on order confirmation |
 | 📊 Dashboard | Revenue, cost & profit margin analytics |
 
+🔗 [Frontend Repo](https://vibe-mart-topaz.vercel.app/)
+
 🛠️ **Stack**: `React.js` `Node.js` `Express` `MySQL`
 
 ---
